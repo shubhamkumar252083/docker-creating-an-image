@@ -1,0 +1,1 @@
+now we only need [ Dockerfile and requirements.txt ] file and follow the commands in "commands.txt" to create an image.
